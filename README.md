@@ -1,3 +1,1 @@
-# hello
-
-Trying gitHub for first time
+Welcome to scss tutorial
